@@ -1,0 +1,12 @@
+git clone  https://github.com/chingit2022/project1.git --this is used to clone the repository. 
+ to comfig the username and email addres
+ Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+  
+  to add the chnages to staging area
+  git add --all
+  
+  to commit the changes to repositry
+  git commit -m "git clone commnand updated"  ## -m is to enter the message##
